@@ -9,11 +9,11 @@ Welcome to the <b>gits Class Wiki</b>.
 
 This repository is a place where links to all of the course content that we cover can be found. Content is organized by <i>Unit</i> and <i>Week</i> with lesson repos and class recordings for each day.
 
-<b>Deliverable Pull Request Guidelines</b> can be found [here](https://github.com/gits/template_pull_request).
+<b>Deliverable Pull Request Guidelines</b> can be found [here](https://github.com/tree/main/template_pull_request).
 
-<b>Daily Javascript Challenges</b> can be found [here](https://github.com/gits/daily_js_challenges).
+<b>Daily Javascript Challenges</b> can be found [here](https://github.com/tree/main/daily_js_challenges).
 
-<b>Computer Science - Algorithms & Data Structures</b> can be found [here](https://github.com/gits/cs_data_structures).
+<b>Computer Science - Algorithms & Data Structures</b> can be found [here](https://github.com/tree/main/cs_data_structures).
 
 ____
 <details><summary><strong>General Assembly Team</strong></summary><p>
@@ -271,7 +271,7 @@ Below, you will find Class Policies and Requirements as laid out in Orientation 
 <li><details><summary><strong>Deliverable Submission Requirements</strong></summary><p>
 
 <ul>
-  <li>Deliverables must be submitted following the <a href="https://github.com/gits/template_pull_request">PR Guidelines</a>.</li>
+  <li>Deliverables must be submitted following the <a href="https://github.com/tree/main/template_pull_request">PR Guidelines</a>.</li>
   <li>Students must meet deliverable requirements for the submission to be marked as "Complete".</li>
   <li>Deliverables are <i>always</i> due the following class day at the beginning of class, unless otherwise stated.</li>
   <li>There is a grace period for re-submission or late submission.  All re-submits/late submits are due the <b>Monday following the week of assignment</b>.
@@ -339,13 +339,13 @@ ____
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | President's Day | [Unit 1 Installations](https://github.com/gits/u1_installations) | [Github / Homework Submission](https://github.com/gits/u1_lesson_github) | [Flexbox Froggy](https://flexboxfroggy.com/) | [Grid Garden](https://cssgridgarden.com/) |
-  |  | [Terminal Lesson](https://github.com/gits/u1_lesson_terminal) | [Intro to HTML](https://github.com/gits/u1_lesson_intro_HTML) | [JS Datatypes](https://github.com/gits/u1_lesson_js_data_types) | [Intro to JS DOM](https://github.com/gits/u1_lesson_intro_DOM) |
-  |  | [Git Lesson](https://github.com/gits/u1_lesson_git) | [Intro to CSS](https://github.com/gits/u1_lesson_intro_CSS) | [JS Arrays](https://github.com/gits/u1_lesson_js_arrays) | [JS DOM Quotes Lab](https://github.com/gits/u1_lab_DOM_quotes) |
-  |  | [VS Code Lesson](https://github.com/gits/u1_lesson_VSCode) | [Fake Resume Lab](https://github.com/gits/u1_lab_fake_resume) | [JS Loops & Control Flow](https://github.com/gits/u1_lesson_loops_and_control_flow) | [JS Events](https://github.com/gits/u1_lesson_js_events) |
-  |  | [Star Wars HW](https://github.com/gits/u1_hw_star_wars) | [Flexbox / Grid](https://github.com/gits/u1_lesson_flex_grid) | [JS Functions](https://github.com/gits/u1_lesson_js_functions) | [JS Dots Game Lab](https://github.com/gits/u1_lab_dots) |
-  |  |  | [Markdown / ReadMe HW](https://github.com/gits/u1_hw_markdown) | [JS Scope](https://github.com/gits/u1_lesson_js_scope) | [Tic Tac Toe HW](https://github.com/gits/u1_hw_tic_tac_toe) |
-  |  |  |  | [Control Flow Adventure HW](https://github.com/gits/u1_hw_control_flow_adventure) |  |
+  | President's Day | [Unit 1 Installations](https://github.com/tree/main/u1_installations) | [Github / Homework Submission](https://github.com/tree/main/u1_lesson_github) | [Flexbox Froggy](https://flexboxfroggy.com/) | [Grid Garden](https://cssgridgarden.com/) |
+  |  | [Terminal Lesson](https://github.com/tree/main/u1_lesson_terminal) | [Intro to HTML](https://github.com/tree/main/u1_lesson_intro_HTML) | [JS Datatypes](https://github.com/tree/main/u1_lesson_js_data_types) | [Intro to JS DOM](https://github.com/tree/main/u1_lesson_intro_DOM) |
+  |  | [Git Lesson](https://github.com/tree/main/u1_lesson_git) | [Intro to CSS](https://github.com/tree/main/u1_lesson_intro_CSS) | [JS Arrays](https://github.com/tree/main/u1_lesson_js_arrays) | [JS DOM Quotes Lab](https://github.com/tree/main/u1_lab_DOM_quotes) |
+  |  | [VS Code Lesson](https://github.com/tree/main/u1_lesson_VSCode) | [Fake Resume Lab](https://github.com/tree/main/u1_lab_fake_resume) | [JS Loops & Control Flow](https://github.com/tree/main/u1_lesson_loops_and_control_flow) | [JS Events](https://github.com/tree/main/u1_lesson_js_events) |
+  |  | [Star Wars HW](https://github.com/tree/main/u1_hw_star_wars) | [Flexbox / Grid](https://github.com/tree/main/u1_lesson_flex_grid) | [JS Functions](https://github.com/tree/main/u1_lesson_js_functions) | [JS Dots Game Lab](https://github.com/tree/main/u1_lab_dots) |
+  |  |  | [Markdown / ReadMe HW](https://github.com/tree/main/u1_hw_markdown) | [JS Scope](https://github.com/tree/main/u1_lesson_js_scope) | [Tic Tac Toe HW](https://github.com/tree/main/u1_hw_tic_tac_toe) |
+  |  |  |  | [Control Flow Adventure HW](https://github.com/tree/main/u1_hw_control_flow_adventure) |  |
 
   <ul type="none">
 
@@ -389,12 +389,12 @@ ____
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Tic Tac Toe Work Time](https://github.com/gits/u1_hw_tic_tac_toe) | [Intro Daily JS Challenges](https://github.com/gits/daily_js_challenges) | [JS HOF](https://github.com/gits/u1_lesson_HOF) | [Box Model Practice](https://github.com/gits/u1_lab_box_model) | [Intro to APIs](https://github.com/gits/u1_lesson_intro_to_APIs) |
-  |  | [JS Objects](https://github.com/gits/u1_lesson_js_objects) | [JS HOF Lab](https://github.com/gits/u1_lab_HOF) | [Intro to OOP](https://github.com/gits/u1_lesson_OOP) | [Dogs API Lab](https://github.com/gits/u1_lab_API_dogs) |
-  |  | [Jurassic Objects Lab](https://github.com/gits/u1_lab_jurassic_objects) | [JS HOF HW](https://github.com/gits/u1_hw_HOF) | [OOP Exercise Lab](https://github.com/gits/u1_lab_OOP_exercise) | [TMDB Lab / HW](https://github.com/gits/u1_lab_TMDB_API) |
-  |  | [ES6 Syntax](https://github.com/gits/u1_lesson_ES6) |  | [Donut Adventure Lab](https://github.com/gits/u1_lab_donut_adventure) | [P1 Prompt](https://github.com/gits/u1_project_prompt) |
-  |  | [ES6 Lab](https://github.com/gits/u1_lab_ES6_practice) |  | [JS Fast & Furious HW](https://github.com/gits/u1_hw_fast_and_furious) |  |
-  |  | [CodeWars HW](https://github.com/gits/u1_hw_codewars_challenges) |  |  |  |
+  | [Tic Tac Toe Work Time](https://github.com/tree/main/u1_hw_tic_tac_toe) | [Intro Daily JS Challenges](https://github.com/tree/main/daily_js_challenges) | [JS HOF](https://github.com/tree/main/u1_lesson_HOF) | [Box Model Practice](https://github.com/tree/main/u1_lab_box_model) | [Intro to APIs](https://github.com/tree/main/u1_lesson_intro_to_APIs) |
+  |  | [JS Objects](https://github.com/tree/main/u1_lesson_js_objects) | [JS HOF Lab](https://github.com/tree/main/u1_lab_HOF) | [Intro to OOP](https://github.com/tree/main/u1_lesson_OOP) | [Dogs API Lab](https://github.com/tree/main/u1_lab_API_dogs) |
+  |  | [Jurassic Objects Lab](https://github.com/tree/main/u1_lab_jurassic_objects) | [JS HOF HW](https://github.com/tree/main/u1_hw_HOF) | [OOP Exercise Lab](https://github.com/tree/main/u1_lab_OOP_exercise) | [TMDB Lab / HW](https://github.com/tree/main/u1_lab_TMDB_API) |
+  |  | [ES6 Syntax](https://github.com/tree/main/u1_lesson_ES6) |  | [Donut Adventure Lab](https://github.com/tree/main/u1_lab_donut_adventure) | [P1 Prompt](https://github.com/tree/main/u1_project_prompt) |
+  |  | [ES6 Lab](https://github.com/tree/main/u1_lab_ES6_practice) |  | [JS Fast & Furious HW](https://github.com/tree/main/u1_hw_fast_and_furious) |  |
+  |  | [CodeWars HW](https://github.com/tree/main/u1_hw_codewars_challenges) |  |  |  |
 
   <ul type="none">
 
@@ -444,13 +444,13 @@ ___
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Intro to React](https://github.com/gits/u2_lesson_intro_to_react) | [Component Hierarchy Diagrams](https://github.com/gits/u2_lesson_component_hierarchy) | [Intro to useEffect](https://github.com/gits/u2_lesson_useEffect) | [Conditional Rendering](https://github.com/gits/u2_lesson_conditional_rendering) | [React Router](https://github.com/gits/u2_lesson_react_router) |
-  | [React Components](https://github.com/gits/u2_lesson_react_components) | [React Mapping Components](https://github.com/gits/u2_lesson_react_mapping_components) | [Stoplight Lab](https://github.com/gits/u2_lab_useEffect_stoplight) | [Conditional Rendering Lab](https://github.com/gits/u2_lab_conditional_rendering) | [React Router Lab](https://github.com/gits/u2_lab_react_router) |
-  | [React Props](https://github.com/gits/u2_lesson_react_props) | [Mapping Components Lab](https://github.com/gits/u2_lab_mapping_components) | [Groceries Lab (bonus)](https://github.com/gits/u2_lab_groceries) | [React w/ APIs](https://github.com/gits/u2_lesson_react_APIs) | [MongoDB Install](https://github.com/gits/u2_lesson_mongo_install) |
-  | [LOTR Lab](https://github.com/gits/u2_lab_react_LOTR) | [Intro to State & Hooks](https://github.com/gits/u2_lesson_intro_to_state) | [Dr. Who Lab (bonus)](https://github.com/gits/u2_lab_dr_who) | [Kanye useEffect Lab](https://github.com/gits/u2_lab_kanye_useEffect) | [RAWG Router Lab / HW](https://github.com/gits/u2_hw_RAWG_router) |
-  | [React Quiz HW](https://github.com/gits/u2_hw_react_quiz) | [Hooks ATM Lab](https://github.com/gits/u2_lab_hooks_ATM) | [Password Validator Lab (bonus)](https://github.com/gits/u2_lab_password_validator) | [React Calculator HW](https://github.com/gits/u2_hw_react_calculator) |  |
-  |  | [Likes Lab](https://github.com/gits/u2_lab_likes) |  |  |  |
-  |  | [Movie Mapping HW](https://github.com/gits/u2_hw_movie_mapping) |  |  |  |
+  | [Intro to React](https://github.com/tree/main/u2_lesson_intro_to_react) | [Component Hierarchy Diagrams](https://github.com/tree/main/u2_lesson_component_hierarchy) | [Intro to useEffect](https://github.com/tree/main/u2_lesson_useEffect) | [Conditional Rendering](https://github.com/tree/main/u2_lesson_conditional_rendering) | [React Router](https://github.com/tree/main/u2_lesson_react_router) |
+  | [React Components](https://github.com/tree/main/u2_lesson_react_components) | [React Mapping Components](https://github.com/tree/main/u2_lesson_react_mapping_components) | [Stoplight Lab](https://github.com/tree/main/u2_lab_useEffect_stoplight) | [Conditional Rendering Lab](https://github.com/tree/main/u2_lab_conditional_rendering) | [React Router Lab](https://github.com/tree/main/u2_lab_react_router) |
+  | [React Props](https://github.com/tree/main/u2_lesson_react_props) | [Mapping Components Lab](https://github.com/tree/main/u2_lab_mapping_components) | [Groceries Lab (bonus)](https://github.com/tree/main/u2_lab_groceries) | [React w/ APIs](https://github.com/tree/main/u2_lesson_react_APIs) | [MongoDB Install](https://github.com/tree/main/u2_lesson_mongo_install) |
+  | [LOTR Lab](https://github.com/tree/main/u2_lab_react_LOTR) | [Intro to State & Hooks](https://github.com/tree/main/u2_lesson_intro_to_state) | [Dr. Who Lab (bonus)](https://github.com/tree/main/u2_lab_dr_who) | [Kanye useEffect Lab](https://github.com/tree/main/u2_lab_kanye_useEffect) | [RAWG Router Lab / HW](https://github.com/tree/main/u2_hw_RAWG_router) |
+  | [React Quiz HW](https://github.com/tree/main/u2_hw_react_quiz) | [Hooks ATM Lab](https://github.com/tree/main/u2_lab_hooks_ATM) | [Password Validator Lab (bonus)](https://github.com/tree/main/u2_lab_password_validator) | [React Calculator HW](https://github.com/tree/main/u2_hw_react_calculator) |  |
+  |  | [Likes Lab](https://github.com/tree/main/u2_lab_likes) |  |  |  |
+  |  | [Movie Mapping HW](https://github.com/tree/main/u2_hw_movie_mapping) |  |  |  |
 
   <ul type="none">
 
@@ -494,11 +494,11 @@ ___
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Intro to Express](https://github.com/gits/u2_lesson_express_intro) | [MongoDB](https://github.com/gits/u2_lesson_mongoDB) | [Mongoose Associations](https://github.com/gits/u2_lesson_mongoose_associations) | [Full Stackathon](https://github.com/gits/u2_full_stackathon) | [Full Stackathon](https://github.com/gits/u2_full_stackathon) |
-  | [Express Routes](https://github.com/gits/u2_lesson_express_routing) | [MongoDB Sneakers Lab](https://github.com/gits/u2_lab_mongoDB_sneakers) | [ERD](https://github.com/gits/u2_lesson_ERD) | []() | []() |
-  | [Intro to Middleware](https://github.com/gits/u2_lesson_express_middleware) | [Mongo / Mongoose Data Model](https://github.com/gits/u2_lesson_mongoose_data_model) | [Group Git](https://github.com/gits/u2_lesson_group_git) | []() | [Heroku Deployment Walkthrough](https://github.com/gits/deployment_MERN) |
-  | [Express Controllers](https://github.com/gits/u2_lesson_express_controllers) | [Mongoose Express](https://github.com/gits/u2_lesson_mongoose_express) | [Full Stackathon Planning HW](https://github.com/gits/u2_full_stackathon) | []() | [Heroku Deployment Recording](https://generalassembly.zoom.us/rec/share/RQk0dN8oiwddKZY0zYOgRwNxuq4wXeuih90hzs_rEQJ_GLCpGpeopevvY41tb8js.f17WJtb_GWsIUjxx) |
-  | [Express Fruits HW](https://github.com/gits/u2_hw_express_fruits) | [Mongoose Plants HW](https://github.com/gits/u2_hw_mongoose_plants) | []() | []() | Passcode: `km?RE77S` |
+  | [Intro to Express](https://github.com/tree/main/u2_lesson_express_intro) | [MongoDB](https://github.com/tree/main/u2_lesson_mongoDB) | [Mongoose Associations](https://github.com/tree/main/u2_lesson_mongoose_associations) | [Full Stackathon](https://github.com/tree/main/u2_full_stackathon) | [Full Stackathon](https://github.com/tree/main/u2_full_stackathon) |
+  | [Express Routes](https://github.com/tree/main/u2_lesson_express_routing) | [MongoDB Sneakers Lab](https://github.com/tree/main/u2_lab_mongoDB_sneakers) | [ERD](https://github.com/tree/main/u2_lesson_ERD) | []() | []() |
+  | [Intro to Middleware](https://github.com/tree/main/u2_lesson_express_middleware) | [Mongo / Mongoose Data Model](https://github.com/tree/main/u2_lesson_mongoose_data_model) | [Group Git](https://github.com/tree/main/u2_lesson_group_git) | []() | [Heroku Deployment Walkthrough](https://github.com/tree/main/deployment_MERN) |
+  | [Express Controllers](https://github.com/tree/main/u2_lesson_express_controllers) | [Mongoose Express](https://github.com/tree/main/u2_lesson_mongoose_express) | [Full Stackathon Planning HW](https://github.com/tree/main/u2_full_stackathon) | []() | [Heroku Deployment Recording](https://generalassembly.zoom.us/rec/share/RQk0dN8oiwddKZY0zYOgRwNxuq4wXeuih90hzs_rEQJ_GLCpGpeopevvY41tb8js.f17WJtb_GWsIUjxx) |
+  | [Express Fruits HW](https://github.com/tree/main/u2_hw_express_fruits) | [Mongoose Plants HW](https://github.com/tree/main/u2_hw_mongoose_plants) | []() | []() | Passcode: `km?RE77S` |
 
   <ul type="none">
 
@@ -557,12 +557,12 @@ ___
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Install Redux Devtools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en) | [Redux Middleware](https://github.com/gits/u3_lesson_redux_middleware) | [Redux Travel Blog Lab / HW](https://github.com/gits/u3_lab_redux_travel_blog) | [SQL Intro](https://github.com/gits/u3_lesson_SQL_intro) | [Database Design](https://github.com/gits/u3_lesson_database_design) |
-  | [Intro to Redux](https://github.com/gits/u3_lesson_redux_intro) | [Redux Movies Lab](https://github.com/gits/u3_lab_redux_movies) | []() | [SQL Practice Lab](https://github.com/gits/u3_lab_SQL_practice) | [Sequelize Intro](https://github.com/gits/u3_lesson_sequelize_intro) |
-  | [Redux Reducers](https://github.com/gits/u3_lesson_redux_reducers) | [Redux Travel Blog Lab / HW](https://github.com/gits/u3_lab_redux_travel_blog) | []() | [SQL Joins](https://github.com/gits/u3_lesson_SQL_joins) | [Sequelize Queries](https://github.com/gits/u3_lesson_sequelize_queries) |
-  | [Redux Actions & Types](https://github.com/gits/u3_lesson_redux_actions_types) | []() | []() | [SQL Joins Lab](https://github.com/gits/u3_lab_SQL_joins) | [Sequelize Query Lab](https://github.com/gits/u3_lab_sequelize_querying) |
-  | [Mapping State & Actions to Props](https://github.com/gits/u3_lesson_mapping_state_props) | []() | []() | [Carmen Sandiego HW](https://github.com/gits/u3_hw_carmen_sandiego) | [Sequelize Practice HW](https://github.com/gits/u3_hw_sequelize_practice) |
-  | [Redux Quiz HW](https://github.com/gits/u3_hw_redux_quiz) | []() | []() | []() | []() |
+  | [Install Redux Devtools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en) | [Redux Middleware](https://github.com/tree/main/u3_lesson_redux_middleware) | [Redux Travel Blog Lab / HW](https://github.com/tree/main/u3_lab_redux_travel_blog) | [SQL Intro](https://github.com/tree/main/u3_lesson_SQL_intro) | [Database Design](https://github.com/tree/main/u3_lesson_database_design) |
+  | [Intro to Redux](https://github.com/tree/main/u3_lesson_redux_intro) | [Redux Movies Lab](https://github.com/tree/main/u3_lab_redux_movies) | []() | [SQL Practice Lab](https://github.com/tree/main/u3_lab_SQL_practice) | [Sequelize Intro](https://github.com/tree/main/u3_lesson_sequelize_intro) |
+  | [Redux Reducers](https://github.com/tree/main/u3_lesson_redux_reducers) | [Redux Travel Blog Lab / HW](https://github.com/tree/main/u3_lab_redux_travel_blog) | []() | [SQL Joins](https://github.com/tree/main/u3_lesson_SQL_joins) | [Sequelize Queries](https://github.com/tree/main/u3_lesson_sequelize_queries) |
+  | [Redux Actions & Types](https://github.com/tree/main/u3_lesson_redux_actions_types) | []() | []() | [SQL Joins Lab](https://github.com/tree/main/u3_lab_SQL_joins) | [Sequelize Query Lab](https://github.com/tree/main/u3_lab_sequelize_querying) |
+  | [Mapping State & Actions to Props](https://github.com/tree/main/u3_lesson_mapping_state_props) | []() | []() | [Carmen Sandiego HW](https://github.com/tree/main/u3_hw_carmen_sandiego) | [Sequelize Practice HW](https://github.com/tree/main/u3_hw_sequelize_practice) |
+  | [Redux Quiz HW](https://github.com/tree/main/u3_hw_redux_quiz) | []() | []() | []() | []() |
 
   <ul type="none">
 
@@ -606,11 +606,11 @@ ___
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Sequelize Migrations](https://github.com/gits/u3_lesson_sequelize_migrations) | [Express Sequelize](https://github.com/gits/u3_lesson_express_sequelize) | [JWT Auth](https://github.com/gits/u3_lesson_JWT_auth) | [React Auth](https://github.com/gits/u3_lesson_react_auth) | [P3 Pitch Presentations](https://github.com/gits/u3_project_prompt) |
-  | [Migrations Exercise Lab](https://github.com/gits/u3_lab_sequelize_migrations_exercise) | [Sequelize API from Scratch Lab / HW](https://github.com/gits/u3_lab_sequelize_API_from_scratch) | [Sequelize Auth](https://github.com/gits/u3_lesson_sequelize_auth) | [Sequelize Complex Associations](https://github.com/gits/u3_lesson_sequelize_complex_associations) | []() |
-  | [Sequelize Associations](https://github.com/gits/u3_lesson_sequelize_associations) | [JWT Auth Study HW](https://github.com/gits/u3_hw_JWT_auth_study) | []() | [P3 Prompt](https://github.com/gits/u3_project_prompt) | []() |
-  | [Associations Exercise Lab](https://github.com/gits/u3_lab_sequelize_associations_exercise) | []() | []() | []() | []() |
-  | [Associations & Migrations HW](https://github.com/gits/u3_hw_sequelize_associations_and_migrations) | []() | []() | []() | []() |
+  | [Sequelize Migrations](https://github.com/tree/main/u3_lesson_sequelize_migrations) | [Express Sequelize](https://github.com/tree/main/u3_lesson_express_sequelize) | [JWT Auth](https://github.com/tree/main/u3_lesson_JWT_auth) | [React Auth](https://github.com/tree/main/u3_lesson_react_auth) | [P3 Pitch Presentations](https://github.com/tree/main/u3_project_prompt) |
+  | [Migrations Exercise Lab](https://github.com/tree/main/u3_lab_sequelize_migrations_exercise) | [Sequelize API from Scratch Lab / HW](https://github.com/tree/main/u3_lab_sequelize_API_from_scratch) | [Sequelize Auth](https://github.com/tree/main/u3_lesson_sequelize_auth) | [Sequelize Complex Associations](https://github.com/tree/main/u3_lesson_sequelize_complex_associations) | []() |
+  | [Sequelize Associations](https://github.com/tree/main/u3_lesson_sequelize_associations) | [JWT Auth Study HW](https://github.com/tree/main/u3_hw_JWT_auth_study) | []() | [P3 Prompt](https://github.com/tree/main/u3_project_prompt) | []() |
+  | [Associations Exercise Lab](https://github.com/tree/main/u3_lab_sequelize_associations_exercise) | []() | []() | []() | []() |
+  | [Associations & Migrations HW](https://github.com/tree/main/u3_hw_sequelize_associations_and_migrations) | []() | []() | []() | []() |
 
   <ul type="none">
 
@@ -669,12 +669,12 @@ ___
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Vue Intro](https://github.com/gits/u4_lesson_vue_introduction) | [Portfolio Lab]() | [Vue API Lab](https://github.com/gits/u4_lab_vue_API) | [Portfolio Lab]() | [Intro to Python](https://github.com/gits/u4_lesson_python_intro) |
-  | [Vue Components & Props](https://github.com/gits/u4_lesson_vue_components_props) | [Vue Events & Emitters](https://github.com/gits/u4_lesson_vue_events_emitters) | [Vue Messenger HW](https://github.com/gits/u4_hw_vue_messenger) | [Vue Router](https://github.com/gits/u4_lesson_vue_router) | [Python Functions](https://github.com/gits/u4_lesson_python_functions) |
-  | [Vue State](https://github.com/gits/u4_lesson_vue_state) | [Vue w/ APIs](https://github.com/gits/u4_lesson_vue_APIs) | []() | [Vue RAWG Lab / HW](https://github.com/gits/u4_hw_vue_RAWG) | [Python Control Flow](https://github.com/gits/u4_lesson_python_control_flow) |
-  | [Vue Directives](https://github.com/gits/u4_lesson_vue_directives) | [Vue Rock, Paper, Scissor Lab / HW](https://github.com/gits/u4_lab_vue_rock_paper_scissor) | []() | []() | [Python Lists & Loops](https://github.com/gits/u4_lesson_python_lists_loops) |
-  | [Vue Quiz](https://docs.google.com/forms/d/e/1FAIpQLScEDwI0NYlQYtHNWaGuRvs1cUJvzLUsJOpukbdDiTWhbJBgpg/viewform) | []() | []() | []() | [Python Dictionaries](https://github.com/gits/u4_lesson_python_dictionaries) |
-  | []() | []() | []() | []() | [Python Choose Your Own Adventure HW](https://github.com/gits/u4_hw_python_adventure) |
+  | [Vue Intro](https://github.com/tree/main/u4_lesson_vue_introduction) | [Portfolio Lab]() | [Vue API Lab](https://github.com/tree/main/u4_lab_vue_API) | [Portfolio Lab]() | [Intro to Python](https://github.com/tree/main/u4_lesson_python_intro) |
+  | [Vue Components & Props](https://github.com/tree/main/u4_lesson_vue_components_props) | [Vue Events & Emitters](https://github.com/tree/main/u4_lesson_vue_events_emitters) | [Vue Messenger HW](https://github.com/tree/main/u4_hw_vue_messenger) | [Vue Router](https://github.com/tree/main/u4_lesson_vue_router) | [Python Functions](https://github.com/tree/main/u4_lesson_python_functions) |
+  | [Vue State](https://github.com/tree/main/u4_lesson_vue_state) | [Vue w/ APIs](https://github.com/tree/main/u4_lesson_vue_APIs) | []() | [Vue RAWG Lab / HW](https://github.com/tree/main/u4_hw_vue_RAWG) | [Python Control Flow](https://github.com/tree/main/u4_lesson_python_control_flow) |
+  | [Vue Directives](https://github.com/tree/main/u4_lesson_vue_directives) | [Vue Rock, Paper, Scissor Lab / HW](https://github.com/tree/main/u4_lab_vue_rock_paper_scissor) | []() | []() | [Python Lists & Loops](https://github.com/tree/main/u4_lesson_python_lists_loops) |
+  | [Vue Quiz](https://docs.google.com/forms/d/e/1FAIpQLScEDwI0NYlQYtHNWaGuRvs1cUJvzLUsJOpukbdDiTWhbJBgpg/viewform) | []() | []() | []() | [Python Dictionaries](https://github.com/tree/main/u4_lesson_python_dictionaries) |
+  | []() | []() | []() | []() | [Python Choose Your Own Adventure HW](https://github.com/tree/main/u4_hw_python_adventure) |
 
   <ul type="none">
 
@@ -718,11 +718,11 @@ ___
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Python Tuples](https://github.com/gits/-u4_lesson_python_tuples) | [Django Intro](https://github.com/gits/u4_lesson_django_intro) | [Django REST API Lesson](https://github.com/gits/u4_lesson_django_REST_API) | [P4 Project Approvals](https://github.com/gits/u4_project_prompt) | [Project Work Time](https://github.com/gits/u4_project_prompt) |
-  | [Python Tuple Lab](https://github.com/gits/u4_lab_python_tuple_exercise) | [Django Views](https://github.com/gits/u4_lesson_django_views) | [Django REST API Lab / HW](https://github.com/gits/u4_lab_django_REST_API) | []() | []() |
-  | [Python OOP](https://github.com/gits/u4_lesson_python_OOP) | [NostalDja Lab / HW](https://github.com/gits/u4_lab_nostaldja) | [P4 Prompt](https://github.com/gits/u4_project_prompt) | []() | []() |
-  | [CSV Parser Lab](https://github.com/gits/u4_lab_python_CSV_parser) | []() | []() | []() | []() |
-  | [Python Smash Bros HW](https://github.com/gits/u4_hw_python_smash_bros) | []() | []() | []() | []() |
+  | [Python Tuples](https://github.com/tree/main/-u4_lesson_python_tuples) | [Django Intro](https://github.com/tree/main/u4_lesson_django_intro) | [Django REST API Lesson](https://github.com/tree/main/u4_lesson_django_REST_API) | [P4 Project Approvals](https://github.com/tree/main/u4_project_prompt) | [Project Work Time](https://github.com/tree/main/u4_project_prompt) |
+  | [Python Tuple Lab](https://github.com/tree/main/u4_lab_python_tuple_exercise) | [Django Views](https://github.com/tree/main/u4_lesson_django_views) | [Django REST API Lab / HW](https://github.com/tree/main/u4_lab_django_REST_API) | []() | []() |
+  | [Python OOP](https://github.com/tree/main/u4_lesson_python_OOP) | [NostalDja Lab / HW](https://github.com/tree/main/u4_lab_nostaldja) | [P4 Prompt](https://github.com/tree/main/u4_project_prompt) | []() | []() |
+  | [CSV Parser Lab](https://github.com/tree/main/u4_lab_python_CSV_parser) | []() | []() | []() | []() |
+  | [Python Smash Bros HW](https://github.com/tree/main/u4_hw_python_smash_bros) | []() | []() | []() | []() |
 
   <ul type="none">
 
