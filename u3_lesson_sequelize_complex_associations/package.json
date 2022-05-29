@@ -1,0 +1,9 @@
+{
+  "name": "sequelize-complex-associations",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "setup": "cd medium_clone && npm run setup && cd ../instagram_clone && npm run setup"
+  }
+}

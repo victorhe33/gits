@@ -1,0 +1,162 @@
+@font-face {
+  font-family: Captions;
+  font-weight: 900;
+  src: url('../assets/fonts/Captions.otf') format('opentype');
+}
+
+.App {
+  text-align: center;
+  min-height: 100vh;
+  background-image: url('../assets/images/sunsetdesert.svg');
+  background-size: cover;
+  background-position: bottom;
+  min-width: 80em;
+}
+
+h1 {
+  font-family: 'Captions';
+  font-size: 6em;
+  background: -webkit-linear-gradient(
+    rgb(245, 0, 94),
+    rgb(134, 35, 134),
+    rgb(52, 32, 54)
+  );
+  --webkit-background-clip: text;
+  --webkit-text-fill-color: transparent;
+  padding-left: 6.5em;
+  margin-top: 1em;
+  text-shadow: 0 0 3em rgb(245, 0, 94);
+}
+
+.highway {
+  background-image: url('../assets/images/road.svg');
+  background-size: cover;
+  min-height: 50vh;
+  position: absolute;
+  z-index: 1;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.cars {
+  display: flex;
+  justify-content: center;
+  width: 40em;
+  position: relative;
+  margin-left: calc(50vw - 20em);
+  margin-right: calc(50vw - 20em);
+  bottom: 0;
+}
+
+.cars > div {
+  width: 20em;
+  height: 20em;
+  background-size: cover;
+}
+
+.action-area {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  padding: 4em 6em 0 6em;
+  position: relative;
+  z-index: 1000;
+}
+
+.stoplight-container,
+.stoplight {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.stoplight-container {
+  justify-content: flex-start;
+  min-height: 12em;
+  padding-left: 4em;
+}
+
+.stoplight {
+  padding: 0.5em 0;
+  justify-content: space-around;
+  background-color: rgb(39, 39, 39);
+  border-radius: 0.5em;
+  min-height: 13em;
+  width: 6em;
+}
+
+.stoplight > div {
+  border-radius: 50%;
+  width: 3.2em;
+  height: 3.2em;
+  border: 3px solid rgb(70, 70, 70);
+}
+
+.countdown {
+  padding: 0.5em 1em;
+  margin-top: 1em;
+  font-weight: bold;
+  outline: none;
+  border: none;
+  border-radius: 0.25em;
+  color: white;
+  background-color: black;
+  font-family: 'Captions';
+  font-size: 1.2em;
+  min-width: 6.5em;
+}
+
+.countdown:hover {
+  background-color: rgb(10, 10, 10);
+  box-shadow: 0px 0px 5px purple;
+}
+
+.countdown:active {
+  background-color: rgb(39, 39, 39);
+  box-shadow: inset 0px 0px 5px purple;
+}
+
+.red {
+  background-color: red;
+  box-shadow: 0px 0px 10px red;
+}
+
+.yellow {
+  background-color: yellow;
+  box-shadow: 0px 0px 10px yellow;
+}
+
+.green {
+  background-color: rgb(0, 235, 51);
+  box-shadow: 0px 0px 10px rgb(0, 235, 51);
+}
+
+.race {
+  animation: race 9s ease-out forwards;
+}
+
+@keyframes race {
+  0% {
+    transform: scale(1);
+    bottom: 0;
+  }
+  35% {
+    transform: scale(0.1);
+    bottom: 9.5em;
+  }
+  80% {
+    transform: scale(0.05);
+    bottom: 10.25em;
+  }
+  95% {
+    transform: scale(0.05);
+    bottom: 10.4em;
+    opacity: 1;
+  }
+  100% {
+    transform: scale(0.05);
+    bottom: 10.15em;
+    opacity: 0;
+  }
+}

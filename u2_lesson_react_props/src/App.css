@@ -1,0 +1,8 @@
+button {
+  background-color: coral;
+  height: 100px;
+  width: 300px;
+  border: 0;
+  margin: 1em;
+  cursor: pointer;
+}

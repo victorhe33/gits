@@ -1,0 +1,75 @@
+body {
+  background-color: rgb(136, 255, 182);
+}
+
+.App {
+  text-align: center;
+}
+
+input,
+button {
+  border: none;
+  font-size: 1.2em;
+  border-radius: 0.25em;
+  padding: 0.5em;
+  outline: none;
+}
+
+button,
+h1 {
+  background-color: rgb(37, 37, 37);
+  color: white;
+  font-weight: bold;
+  box-shadow: 0px 0px 5px black;
+}
+
+button:active {
+  box-shadow: none;
+}
+
+input:focus {
+  box-shadow: inset 0px 0px 6px rgb(175, 0, 73);
+}
+
+input {
+  box-shadow: inset 0px 0px 3px black;
+  width: 8em;
+}
+
+h1 {
+  padding: 0.5em;
+  margin-top: 0;
+  margin-bottom: 2em;
+}
+
+button {
+  padding: 0.5em 1.5em;
+}
+
+.add {
+  display: flex;
+  justify-content: space-around;
+}
+
+.add > span {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.container {
+  width: 30em;
+  margin: 0 auto;
+  background-color: rgb(173, 208, 255);
+  padding: 2em;
+  border-radius: 0.5em;
+  box-shadow: 0px 0px 5px black;
+}
+
+.results {
+  background-color: white;
+  padding: 2em;
+  width: 21em;
+  margin: 1em auto 0 auto;
+  border-radius: 0.25em;
+  box-shadow: inset 0px 0px 3px black;
+}

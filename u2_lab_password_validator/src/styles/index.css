@@ -1,0 +1,16 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  align-items: center;
+  background-color: #f1f8ff;
+  color: #222;
+  display: grid;
+  justify-items: stretch;
+  font-family: sans-serif;
+  margin: 0 auto;
+  min-height: 100vh;
+}

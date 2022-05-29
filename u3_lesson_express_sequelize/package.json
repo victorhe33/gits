@@ -1,0 +1,22 @@
+{
+  "name": "Express-Sequelize",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:SEI-R-10-5/Express-Sequelize.git",
+  "author": "Andre Pato <anpato1994@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@ngneat/falso": "^4.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "pg": "^8.5.1",
+    "sequelize": "^6.3.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}

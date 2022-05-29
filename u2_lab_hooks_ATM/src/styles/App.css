@@ -1,0 +1,95 @@
+@import url(http://fonts.googleapis.com/css?family=Oleo+Script);
+@import url(http://fonts.googleapis.com/css?family=Ruluko);
+
+body {
+  font-family: 'Ruluko', sans-serif;
+  margin: 0px auto;
+  text-align: center;
+  width: 100vw;
+}
+
+.account {
+  background-color: #6C9A74;
+  border: 1px solid #295A33;
+  border-radius: 15px;
+  display: inline-block;
+  margin: 10px;
+  padding: 10px;
+  width: 300px;
+}
+
+.account:hover {
+  background-color: #8fb795;
+}
+
+.balance {
+  background-color: #E3E3E3;
+  border: 1px solid #676767;
+  border-radius: 15px;
+  font-size: 50px;
+  margin: 5px;
+  padding: 25px 0px;
+}
+
+.balance:hover {
+  background-color: #f6f6f6;
+}
+
+.zero {
+  background-color: #F52F4F;
+  color: #FFFFFF;
+}
+
+.zero:hover {
+  background-color: #fb506d;
+}
+
+.input {
+  height: 3vmin;
+  width: 10vmin;
+  text-align: center;
+  font-size: 1.75vmin;
+}
+
+#nav {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+}
+
+.bank {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 100vw;
+}
+
+.btn {
+  background-color:  rgb(234, 234, 234);
+    
+  border: solid;
+  border-color: rgb(62, 62, 62);
+  border-width: .25vmin;
+  border-radius: .5vmin;
+
+  font-family: 'Ruluko', sans-serif;
+  text-align: center;
+
+  color: rgb(62, 62, 62);
+  font-size: 1.5vmin;
+  font-weight: bold;
+
+  height: 3vmin;
+  width: 8vmin;
+
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 5px;
+}
+
+.btn:hover {
+  background: rgb(211, 211, 211);
+  cursor: pointer;
+}

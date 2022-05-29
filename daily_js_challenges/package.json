@@ -1,0 +1,14 @@
+{
+  "name": "daily_js_challenges",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:SEI-R-4-26/daily_js_challenges.git",
+  "author": "Andre Pato <anpato1994@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}

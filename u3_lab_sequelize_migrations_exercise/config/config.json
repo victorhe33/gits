@@ -1,0 +1,14 @@
+{
+  "development": {
+    "database": "sequelize_migrations_lab_development",
+    "dialect": "postgres"
+  },
+  "test": {
+    "database": "sequelize_migrations_lab_test",
+    "dialect": "postgres"
+  },
+  "production": {
+    "database": "sequelize_migrations_lab_production",
+    "dialect": "postgres"
+  }
+}

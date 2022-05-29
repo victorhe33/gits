@@ -1,0 +1,21 @@
+{
+  "name": "sequelize-migrations",
+  "version": "1.0.0",
+  "description": "This is Sequelize Migrations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.generalassemb.ly/bruno/sequelize-migrations"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "pg": "^8.5.1",
+    "sequelize": "^6.3.5"
+  }
+}

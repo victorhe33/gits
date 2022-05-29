@@ -1,0 +1,66 @@
+.flex-row {
+  display: flex;
+  min-height: 100vh;
+}
+
+.left,
+.right {
+  text-align: center;
+  flex: 1;
+}
+
+h1 {
+  text-decoration: underline;
+}
+
+.left {
+  border-right: 1px solid #333;
+}
+
+.right {
+  border-left: 1px solid #333;
+}
+
+ul {
+  list-style: none;
+}
+
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
+
+.country-item {
+  border: 2px solid rgba(0, 0, 0, 0.3);
+  width: 80%;
+  height: 300px;
+  margin: 0.5em auto;
+  border-radius: 6px;
+}
+
+h3, h5 {
+ color: white;
+ background-color: rgb(0, 0, 0, 40%);
+ padding: 4px;
+}
+
+#Scotland {
+  background: url("https://imgs.search.brave.com/LgiQ66KNnJU9odQQMqfaf9ovT7fPxEPLtUp8uAtzjBU/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDIyMTY4/MDcuanBn") center;
+  background-size: cover;
+}
+
+#Brazil {
+  background: url("https://imgs.search.brave.com/-VPKxYOBiwGDd7IOrorSkbNr7HdJxFqzV9o17TgiGu4/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/cHVibGljZG9tYWlu/cGljdHVyZXMubmV0/L3BpY3R1cmVzLzM0/MDAwMC92ZWxrYS9i/cmF6aWwtZmxhZy10/aGVtZS1pZGVhLWRl/c2lnbi0xNTg4Njc0/MDE0d25SLmpwZw") center;
+  background-size: cover;
+}
+
+#Egypt {
+  background: url("https://imgs.search.brave.com/JBC2usI_e919AQJ2ON7hy7xroAoq4x-hQt9M1z6teUI/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9zcmNu/YXV0LmNvbS9jZG4t/Y2dpL2ltYWdlL2Y9/YXV0byxmaXQ9Y3Jv/cCxnPTAuNXgwLjUs/dz0yMDAwLGg9MTEy/NSxxPTkwLGQ9MS91/cGxvYWQvZjcvNjMv/ZDgvc2h1dHRlcnN0/b2NrLTEwNTc3NjY4/ODguanBn") center;
+  background-size: cover;
+}
+
+#Spain {
+  background: url("https://imgs.search.brave.com/FBu91X2LSZeLi8ldoNgMqqi9HkswV8LQLy1mHhwMQWg/rs:fit:1200:800:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZW4vdGh1bWIv/OS85YS9GbGFnX29m/X1NwYWluLnN2Zy8x/MjAwcHgtRmxhZ19v/Zl9TcGFpbi5zdmcu/cG5n") center;
+  background-size: cover;
+}

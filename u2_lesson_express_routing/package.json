@@ -1,0 +1,17 @@
+{
+  "name": "express-middleware",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Andre Pato <anpato1994@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}

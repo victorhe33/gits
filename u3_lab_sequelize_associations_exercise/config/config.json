@@ -1,0 +1,14 @@
+{
+  "development": {
+    "database": "associations_development",
+    "dialect": "postgres"
+  },
+  "test": {
+    "database": "associations_test",
+    "dialect": "postgres"
+  },
+  "production": {
+    "database": "associations_production",
+    "dialect": "postgres"
+  }
+}

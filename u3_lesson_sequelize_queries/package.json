@@ -1,0 +1,11 @@
+{
+  "name": "sequelize_querying_lesson",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@ngneat/falso": "^3.1.0",
+    "pg": "^8.5.1",
+    "sequelize": "^6.5.0"
+  }
+}

@@ -1,0 +1,42 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+
+  margin-top: 15vh;
+  height: 80vh;
+}
+
+li {
+  margin: 5px;
+}
+
+input {
+  height: 40px;
+  margin: 5px;
+  text-align: center;
+}
+
+button {
+  padding: 0.5em 1em;
+  background: #ff3939;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 10%;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #ff6b6b;
+}
+
+.add-button {
+  height: 40px;
+  background: rgb(113, 169, 56);
+}
+
+.add-button:hover {
+  background: rgb(149, 225, 73);
+}

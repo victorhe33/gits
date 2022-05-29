@@ -1,0 +1,3280 @@
+[
+  {
+    "name": "Bayonetta",
+    "attacks": [
+      {
+        "damage": 2,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 2,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 3,
+        "name": "Jab 3"
+      },
+      {
+        "damage": 1,
+        "name": "Rapid Jab"
+      },
+      {
+        "damage": 4,
+        "name": "Ftilt 1"
+      },
+      {
+        "damage": 3,
+        "name": "Ftilt 2"
+      },
+      {
+        "damage": 9,
+        "name": "Ftilt 3"
+      },
+      {
+        "damage": 16,
+        "name": "Usmash"
+      },
+      {
+        "damage": 8,
+        "name": "Nair"
+      },
+      {
+        "damage": 3,
+        "name": "Fair 1"
+      },
+      {
+        "damage": 3,
+        "name": "Fair 2"
+      },
+      {
+        "damage": 6,
+        "name": "Fair 3"
+      },
+      {
+        "damage": 9,
+        "name": "Uair"
+      },
+      {
+        "damage": 2,
+        "name": "Bullet Climax"
+      },
+      {
+        "damage": 7,
+        "name": "After Burner Kick"
+      },
+      {
+        "damage": 1,
+        "name": "Witch Time"
+      }
+    ]
+  },
+  {
+    "name": "Bowser",
+    "attacks": [
+      {
+        "damage": 5,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 7,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 9,
+        "name": "Utilt"
+      },
+      {
+        "damage": 19,
+        "name": "Bair"
+      },
+      {
+        "damage": 15,
+        "name": "Uair"
+      },
+      {
+        "damage": 16,
+        "name": "Dair"
+      },
+      {
+        "damage": 2,
+        "name": "Fire Breath"
+      },
+      {
+        "damage": 12,
+        "name": "Fthrow"
+      },
+      {
+        "damage": 12,
+        "name": "Bthrow"
+      }
+    ]
+  },
+  {
+    "name": "BowserJr",
+    "attacks": [
+      {
+        "damage": 3,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 2,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 3,
+        "name": "Rapid Jab Finisher"
+      },
+      {
+        "damage": 2,
+        "name": "Dash Attack"
+      },
+      {
+        "damage": 6,
+        "name": "Utilt"
+      },
+      {
+        "damage": 1,
+        "name": "Fsmash"
+      },
+      {
+        "damage": 2,
+        "name": "Usmash"
+      },
+      {
+        "damage": 18,
+        "name": "Dsmash"
+      },
+      {
+        "damage": 5,
+        "name": "Nair"
+      },
+      {
+        "damage": 10,
+        "name": "Uair"
+      },
+      {
+        "damage": 2,
+        "name": "Dair"
+      },
+      {
+        "damage": 12,
+        "name": "Bthrow"
+      },
+      {
+        "damage": 7,
+        "name": "Uthrow"
+      }
+    ]
+  },
+  {
+    "name": "CaptainFalcon",
+    "attacks": [
+      {
+        "damage": 2,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 2,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 5,
+        "name": "Jab 3"
+      },
+      {
+        "damage": 1,
+        "name": "Rapid Jab"
+      },
+      {
+        "damage": 2,
+        "name": "Rapid Jab Finisher"
+      },
+      {
+        "damage": 11,
+        "name": "Utilt"
+      },
+      {
+        "damage": 10,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 19,
+        "name": "Fsmash"
+      },
+      {
+        "damage": 13,
+        "name": "Bair"
+      },
+      {
+        "damage": 14,
+        "name": "Dair"
+      },
+      {
+        "damage": 25,
+        "name": "Falcon Punch"
+      },
+      {
+        "damage": 6,
+        "name": "Dthrow"
+      }
+    ]
+  },
+  {
+    "name": "Charizard",
+    "attacks": [
+      {
+        "damage": 3,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 4,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 5,
+        "name": "Jab 3"
+      },
+      {
+        "damage": 8,
+        "name": "Utilt"
+      },
+      {
+        "damage": 10,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 17,
+        "name": "Fsmash"
+      },
+      {
+        "damage": 16,
+        "name": "Dsmash"
+      },
+      {
+        "damage": 12,
+        "name": "Fair"
+      },
+      {
+        "damage": 13,
+        "name": "Uair"
+      },
+      {
+        "damage": 14,
+        "name": "Dair"
+      },
+      {
+        "damage": 2,
+        "name": "Fly"
+      },
+      {
+        "damage": 10,
+        "name": "Fthrow"
+      },
+      {
+        "damage": 10,
+        "name": "Bthrow"
+      }
+    ]
+  },
+  {
+    "name": "Cloud",
+    "attacks": [
+      {
+        "damage": 3,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 2,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 4,
+        "name": "Jab 3"
+      },
+      {
+        "damage": 11,
+        "name": "Ftilt"
+      },
+      {
+        "damage": 8,
+        "name": "Utilt"
+      },
+      {
+        "damage": 4,
+        "name": "Dsmash"
+      },
+      {
+        "damage": 8,
+        "name": "Nair"
+      },
+      {
+        "damage": 13,
+        "name": "Bair"
+      },
+      {
+        "damage": 12,
+        "name": "Uair"
+      },
+      {
+        "damage": 4,
+        "name": "Cross Slash 1"
+      },
+      {
+        "damage": 3,
+        "name": "Cross Slash 2"
+      },
+      {
+        "damage": 1,
+        "name": "Limit Break"
+      },
+      {
+        "damage": 7,
+        "name": "Dthrow"
+      }
+    ]
+  },
+  {
+    "name": "Corrin",
+    "attacks": [
+      {
+        "damage": 2,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 1,
+        "name": "Rapid Jab"
+      },
+      {
+        "damage": 3,
+        "name": "Rapid Jab Finisher"
+      },
+      {
+        "damage": 11,
+        "name": "Ftilt"
+      },
+      {
+        "damage": 9,
+        "name": "Utilt"
+      },
+      {
+        "damage": 8,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 7,
+        "name": "Nair"
+      },
+      {
+        "damage": 8,
+        "name": "Fair"
+      },
+      {
+        "damage": 11,
+        "name": "Bair"
+      },
+      {
+        "damage": 9,
+        "name": "Uair"
+      },
+      {
+        "damage": 2,
+        "name": "Dair"
+      },
+      {
+        "damage": 1,
+        "name": "Counter Surge"
+      }
+    ]
+  },
+  {
+    "name": "DarkPit",
+    "attacks": [
+      {
+        "damage": 2,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 2,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 5,
+        "name": "Jab 3"
+      },
+      {
+        "damage": 1,
+        "name": "Rapid Jab"
+      },
+      {
+        "damage": 2,
+        "name": "Rapid Jab Finisher"
+      },
+      {
+        "damage": 11,
+        "name": "Dash Attack"
+      },
+      {
+        "damage": 6,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 10,
+        "name": "Dair"
+      },
+      {
+        "damage": 8,
+        "name": "Bthrow"
+      }
+    ]
+  },
+  {
+    "name": "DiddyKong",
+    "attacks": [
+      {
+        "damage": 2,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 2,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 2,
+        "name": "Jab 3"
+      },
+      {
+        "damage": 1,
+        "name": "Rapid Jab"
+      },
+      {
+        "damage": 3,
+        "name": "Rapid Jab Finisher"
+      },
+      {
+        "damage": 6,
+        "name": "Utilt"
+      },
+      {
+        "damage": 6,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 6,
+        "name": "Nair"
+      },
+      {
+        "damage": 10,
+        "name": "Fair"
+      },
+      {
+        "damage": 9,
+        "name": "Bair"
+      },
+      {
+        "damage": 6,
+        "name": "Uair"
+      },
+      {
+        "damage": 3,
+        "name": "Banana Peel"
+      },
+      {
+        "damage": 9,
+        "name": "Fthrow"
+      },
+      {
+        "damage": 12,
+        "name": "Bthrow"
+      },
+      {
+        "damage": 7,
+        "name": "Dthrow"
+      }
+    ]
+  },
+  {
+    "name": "DonkeyKong",
+    "attacks": [
+      {
+        "damage": 4,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 6,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 10,
+        "name": "Ftilt"
+      },
+      {
+        "damage": 11,
+        "name": "Nair"
+      },
+      {
+        "damage": 16,
+        "name": "Fair"
+      },
+      {
+        "damage": 13,
+        "name": "Bair"
+      },
+      {
+        "damage": 13,
+        "name": "Uair"
+      },
+      {
+        "damage": 1,
+        "name": "Fthrow"
+      },
+      {
+        "damage": 11,
+        "name": "Bthrow"
+      },
+      {
+        "damage": 9,
+        "name": "Uthrow"
+      },
+      {
+        "damage": 7,
+        "name": "Dthrow"
+      }
+    ]
+  },
+  {
+    "name": "DrMario",
+    "attacks": [
+      {
+        "damage": 3,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 2,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 5,
+        "name": "Jab 3"
+      },
+      {
+        "damage": 9,
+        "name": "Dash Attack"
+      },
+      {
+        "damage": 8,
+        "name": "Utilt"
+      },
+      {
+        "damage": 16,
+        "name": "Usmash"
+      },
+      {
+        "damage": 6,
+        "name": "Nair"
+      },
+      {
+        "damage": 17,
+        "name": "Fair"
+      },
+      {
+        "damage": 14,
+        "name": "Bair"
+      },
+      {
+        "damage": 8,
+        "name": "Uair"
+      },
+      {
+        "damage": 2,
+        "name": "Dair"
+      },
+      {
+        "damage": 6,
+        "name": "Megavitamins"
+      },
+      {
+        "damage": 8,
+        "name": "Super Sheet"
+      },
+      {
+        "damage": 14,
+        "name": "Super Jump Punch"
+      },
+      {
+        "damage": 9,
+        "name": "Fthrow"
+      },
+      {
+        "damage": 13,
+        "name": "Bthrow"
+      },
+      {
+        "damage": 8,
+        "name": "Uthrow"
+      },
+      {
+        "damage": 6,
+        "name": "Dthrow"
+      }
+    ]
+  },
+  {
+    "name": "DuckHunt",
+    "attacks": [
+      {
+        "damage": 3,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 3,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 5,
+        "name": "Jab 3"
+      },
+      {
+        "damage": 1,
+        "name": "Rapid Jab"
+      },
+      {
+        "damage": 3,
+        "name": "Rapid Jab Finisher"
+      },
+      {
+        "damage": 10,
+        "name": "Dash Attack"
+      },
+      {
+        "damage": 7,
+        "name": "Utilt"
+      },
+      {
+        "damage": 8,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 11,
+        "name": "Nair"
+      },
+      {
+        "damage": 2,
+        "name": "Trick Shot"
+      },
+      {
+        "damage": 1,
+        "name": "Duck Jump"
+      },
+      {
+        "damage": 1,
+        "name": "Wild Gunman"
+      },
+      {
+        "damage": 8,
+        "name": "Fthrow"
+      },
+      {
+        "damage": 9,
+        "name": "Bthrow"
+      },
+      {
+        "damage": 6,
+        "name": "Uthrow"
+      },
+      {
+        "damage": 5,
+        "name": "Dthrow"
+      }
+    ]
+  },
+  {
+    "name": "Falco",
+    "attacks": [
+      {
+        "damage": 3,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 2,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 1,
+        "name": "Rapid Jab"
+      },
+      {
+        "damage": 3,
+        "name": "Rapid Jab Finisher"
+      },
+      {
+        "damage": 9,
+        "name": "Dash Attack"
+      },
+      {
+        "damage": 15,
+        "name": "Fsmash"
+      },
+      {
+        "damage": 1,
+        "name": "Fair"
+      },
+      {
+        "damage": 13,
+        "name": "Bair"
+      },
+      {
+        "damage": 10,
+        "name": "Uair"
+      },
+      {
+        "damage": 13,
+        "name": "Dair"
+      },
+      {
+        "damage": 3,
+        "name": "Blaster"
+      }
+    ]
+  },
+  {
+    "name": "Fox",
+    "attacks": [
+      {
+        "damage": 2,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 1,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 1,
+        "name": "Rapid Jab"
+      },
+      {
+        "damage": 2,
+        "name": "Rapid Jab Finisher"
+      },
+      {
+        "damage": 6,
+        "name": "Dash Attack"
+      },
+      {
+        "damage": 6,
+        "name": "Ftilt"
+      },
+      {
+        "damage": 14,
+        "name": "Fsmash"
+      },
+      {
+        "damage": 9,
+        "name": "Nair"
+      },
+      {
+        "damage": 13,
+        "name": "Bair"
+      },
+      {
+        "damage": 2,
+        "name": "Reflector"
+      }
+    ]
+  },
+  {
+    "name": "Ganondorf",
+    "attacks": [
+      {
+        "damage": 13,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 30,
+        "name": "Warlock Punch"
+      },
+      {
+        "damage": 7,
+        "name": "Dthrow"
+      }
+    ]
+  },
+  {
+    "name": "Greninja",
+    "attacks": [
+      {
+        "damage": 2,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 2,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 4,
+        "name": "Jab 3"
+      },
+      {
+        "damage": 2,
+        "name": "Rapid Jab Finisher"
+      },
+      {
+        "damage": 7,
+        "name": "Dash Attack"
+      },
+      {
+        "damage": 5,
+        "name": "Utilt"
+      },
+      {
+        "damage": 7,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 14,
+        "name": "Fsmash"
+      },
+      {
+        "damage": 1,
+        "name": "Down Taunt"
+      },
+      {
+        "damage": 11,
+        "name": "Nair"
+      },
+      {
+        "damage": 14,
+        "name": "Fair"
+      },
+      {
+        "damage": 8,
+        "name": "Dair"
+      },
+      {
+        "damage": 2,
+        "name": "Hydro Pump"
+      },
+      {
+        "damage": 1,
+        "name": "Substitute"
+      },
+      {
+        "damage": 5,
+        "name": "Fthrow"
+      },
+      {
+        "damage": 8,
+        "name": "Bthrow"
+      },
+      {
+        "damage": 5,
+        "name": "Uthrow"
+      },
+      {
+        "damage": 5,
+        "name": "Dthrow"
+      }
+    ]
+  },
+  {
+    "name": "Ike",
+    "attacks": [
+      {
+        "damage": 3,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 3,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 5,
+        "name": "Jab 3"
+      },
+      {
+        "damage": 14,
+        "name": "Utilt"
+      },
+      {
+        "damage": 8,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 19,
+        "name": "Fsmash"
+      },
+      {
+        "damage": 17,
+        "name": "Usmash"
+      },
+      {
+        "damage": 10,
+        "name": "Nair"
+      },
+      {
+        "damage": 13,
+        "name": "Fair"
+      },
+      {
+        "damage": 14,
+        "name": "Bair"
+      },
+      {
+        "damage": 11,
+        "name": "Uair"
+      },
+      {
+        "damage": 15,
+        "name": "Dair"
+      },
+      {
+        "damage": 9,
+        "name": "Eruption"
+      },
+      {
+        "damage": 1,
+        "name": "Aether"
+      },
+      {
+        "damage": 1,
+        "name": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Jigglypuff",
+    "attacks": [
+      {
+        "damage": 3,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 3,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 12,
+        "name": "Dash Attack"
+      },
+      {
+        "damage": 9,
+        "name": "Utilt"
+      },
+      {
+        "damage": 10,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 15,
+        "name": "Fsmash"
+      },
+      {
+        "damage": 11,
+        "name": "Dsmash"
+      },
+      {
+        "damage": 11,
+        "name": "Nair"
+      },
+      {
+        "damage": 9,
+        "name": "Fair"
+      },
+      {
+        "damage": 13,
+        "name": "Bair"
+      },
+      {
+        "damage": 9,
+        "name": "Uair"
+      },
+      {
+        "damage": 11,
+        "name": "Pound"
+      },
+      {
+        "damage": 0,
+        "name": "Sing"
+      },
+      {
+        "damage": 20,
+        "name": "Rest"
+      },
+      {
+        "damage": 10,
+        "name": "Bthrow"
+      },
+      {
+        "damage": 10,
+        "name": "Uthrow"
+      }
+    ]
+  },
+  {
+    "name": "KingDedede",
+    "attacks": [
+      {
+        "damage": 4,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 4,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 1,
+        "name": "Rapid Jab"
+      },
+      {
+        "damage": 3,
+        "name": "Rapid Jab Finisher"
+      },
+      {
+        "damage": 2,
+        "name": "Ftilt"
+      },
+      {
+        "damage": 10,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 15,
+        "name": "Fsmash"
+      },
+      {
+        "damage": 13,
+        "name": "Dsmash"
+      },
+      {
+        "damage": 12,
+        "name": "Nair"
+      },
+      {
+        "damage": 12,
+        "name": "Fair"
+      },
+      {
+        "damage": 16,
+        "name": "Bair"
+      },
+      {
+        "damage": 1,
+        "name": "Inhale"
+      },
+      {
+        "damage": 6,
+        "name": "Dthrow"
+      }
+    ]
+  },
+  {
+    "name": "Kirby",
+    "attacks": [
+      {
+        "damage": 2,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 3,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 1,
+        "name": "Rapid Jab"
+      },
+      {
+        "damage": 2,
+        "name": "Rapid Jab Finisher"
+      },
+      {
+        "damage": 5,
+        "name": "Utilt"
+      },
+      {
+        "damage": 6,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 15,
+        "name": "Fsmash"
+      },
+      {
+        "damage": 14,
+        "name": "Dsmash"
+      },
+      {
+        "damage": 6,
+        "name": "Nair"
+      },
+      {
+        "damage": 13,
+        "name": "Bair"
+      },
+      {
+        "damage": 9,
+        "name": "Uair"
+      },
+      {
+        "damage": 1,
+        "name": "Inhale"
+      },
+      {
+        "damage": 5,
+        "name": "Fthrow"
+      },
+      {
+        "damage": 8,
+        "name": "Bthrow"
+      },
+      {
+        "damage": 10,
+        "name": "Uthrow"
+      }
+    ]
+  },
+  {
+    "name": "Link",
+    "attacks": [
+      {
+        "damage": 3,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 3,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 5,
+        "name": "Jab 3"
+      },
+      {
+        "damage": 13,
+        "name": "Ftilt"
+      },
+      {
+        "damage": 9,
+        "name": "Utilt"
+      },
+      {
+        "damage": 11,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 15,
+        "name": "Uair"
+      },
+      {
+        "damage": 18,
+        "name": "Dair"
+      },
+      {
+        "damage": 7,
+        "name": "Gale Boomerang"
+      },
+      {
+        "damage": 1,
+        "name": "Bomb"
+      },
+      {
+        "damage": 1,
+        "name": "Bomb"
+      }
+    ]
+  },
+  {
+    "name": "LittleMac",
+    "attacks": [
+      {
+        "damage": 2,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 2,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 7,
+        "name": "Jab 3"
+      },
+      {
+        "damage": 3,
+        "name": "Rapid Jab Finisher"
+      },
+      {
+        "damage": 10,
+        "name": "Dash Attack"
+      },
+      {
+        "damage": 9,
+        "name": "Utilt"
+      },
+      {
+        "damage": 8,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 21,
+        "name": "Usmash"
+      },
+      {
+        "damage": 2,
+        "name": "Nair"
+      },
+      {
+        "damage": 35,
+        "name": "KO Punch"
+      },
+      {
+        "damage": 1,
+        "name": "Straight Lunge"
+      },
+      {
+        "damage": 1,
+        "name": "Rising Uppercut"
+      },
+      {
+        "damage": 1,
+        "name": "Slip Counter"
+      }
+    ]
+  },
+  {
+    "name": "Lucario",
+    "attacks": [
+      {
+        "damage": 3,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 2,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 3,
+        "name": "Jab 3"
+      },
+      {
+        "damage": 8,
+        "name": "Dash Attack"
+      },
+      {
+        "damage": 5,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 16,
+        "name": "Fsmash"
+      },
+      {
+        "damage": 14,
+        "name": "Dsmash"
+      },
+      {
+        "damage": 8,
+        "name": "Nair"
+      },
+      {
+        "damage": 6,
+        "name": "Fair"
+      },
+      {
+        "damage": 15,
+        "name": "Bair"
+      },
+      {
+        "damage": 11,
+        "name": "Uair"
+      },
+      {
+        "damage": 1,
+        "name": "Double Team"
+      },
+      {
+        "damage": 8,
+        "name": "Fthrow"
+      },
+      {
+        "damage": 10,
+        "name": "Bthrow"
+      },
+      {
+        "damage": 7,
+        "name": "Dthrow"
+      }
+    ]
+  },
+  {
+    "name": "Lucas",
+    "attacks": [
+      {
+        "damage": 3,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 2,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 4,
+        "name": "Jab 3"
+      },
+      {
+        "damage": 3,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 2,
+        "name": "Nair"
+      },
+      {
+        "damage": 13,
+        "name": "Uair"
+      },
+      {
+        "damage": 4,
+        "name": "Zair"
+      },
+      {
+        "damage": 1,
+        "name": "PK Freeze"
+      },
+      {
+        "damage": 3,
+        "name": "PK Fire"
+      },
+      {
+        "damage": 1,
+        "name": "PK Thunder"
+      },
+      {
+        "damage": 8,
+        "name": "PSI Magnet"
+      },
+      {
+        "damage": 10,
+        "name": "Fthrow"
+      },
+      {
+        "damage": 10,
+        "name": "Bthrow"
+      },
+      {
+        "damage": 10,
+        "name": "Uthrow"
+      },
+      {
+        "damage": 7,
+        "name": "Dthrow"
+      }
+    ]
+  },
+  {
+    "name": "Lucina",
+    "attacks": [
+      {
+        "damage": 4,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 5,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 10,
+        "name": "Dash Attack"
+      },
+      {
+        "damage": 11,
+        "name": "Ftilt"
+      },
+      {
+        "damage": 8,
+        "name": "Utilt"
+      },
+      {
+        "damage": 9,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 15,
+        "name": "Fsmash"
+      },
+      {
+        "damage": 15,
+        "name": "Usmash"
+      },
+      {
+        "damage": 11,
+        "name": "Fair"
+      },
+      {
+        "damage": 12,
+        "name": "Bair"
+      },
+      {
+        "damage": 12,
+        "name": "Uair"
+      },
+      {
+        "damage": 13,
+        "name": "Dair"
+      },
+      {
+        "damage": 4,
+        "name": "Dancing Blade"
+      },
+      {
+        "damage": 4,
+        "name": "Dancing Blade 2"
+      },
+      {
+        "damage": 5,
+        "name": "Dancing Blade 3"
+      },
+      {
+        "damage": 6,
+        "name": "Dancing Blade 4"
+      },
+      {
+        "damage": 1,
+        "name": "Counter"
+      },
+      {
+        "damage": 4,
+        "name": "Fthrow"
+      },
+      {
+        "damage": 4,
+        "name": "Bthrow"
+      },
+      {
+        "damage": 4,
+        "name": "Uthrow"
+      },
+      {
+        "damage": 5,
+        "name": "Dthrow"
+      }
+    ]
+  },
+  {
+    "name": "Luigi",
+    "attacks": [
+      {
+        "damage": 3,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 2,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 5,
+        "name": "Jab 3"
+      },
+      {
+        "damage": 6,
+        "name": "Utilt"
+      },
+      {
+        "damage": 8,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 15,
+        "name": "Fsmash"
+      },
+      {
+        "damage": 2,
+        "name": "Down Taunt"
+      },
+      {
+        "damage": 12,
+        "name": "Nair"
+      },
+      {
+        "damage": 8,
+        "name": "Fair"
+      },
+      {
+        "damage": 11,
+        "name": "Uair"
+      },
+      {
+        "damage": 10,
+        "name": "Dair"
+      },
+      {
+        "damage": 6,
+        "name": "Fireball"
+      },
+      {
+        "damage": 1,
+        "name": "Green Missile"
+      },
+      {
+        "damage": 9,
+        "name": "Fthrow"
+      },
+      {
+        "damage": 10,
+        "name": "Bthrow"
+      },
+      {
+        "damage": 8,
+        "name": "Uthrow"
+      }
+    ]
+  },
+  {
+    "name": "Mario",
+    "attacks": [
+      {
+        "damage": 3,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 2,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 4,
+        "name": "Jab 3"
+      },
+      {
+        "damage": 8,
+        "name": "Dash Attack"
+      },
+      {
+        "damage": 6,
+        "name": "Utilt"
+      },
+      {
+        "damage": 14,
+        "name": "Usmash"
+      },
+      {
+        "damage": 8,
+        "name": "Nair"
+      },
+      {
+        "damage": 14,
+        "name": "Fair"
+      },
+      {
+        "damage": 11,
+        "name": "Bair"
+      },
+      {
+        "damage": 7,
+        "name": "Uair"
+      },
+      {
+        "damage": 5,
+        "name": "Fireball"
+      },
+      {
+        "damage": 5,
+        "name": "Fireball"
+      },
+      {
+        "damage": 7,
+        "name": "Cape"
+      },
+      {
+        "damage": 1,
+        "name": "F.L.U.D.D"
+      },
+      {
+        "damage": 8,
+        "name": "Fthrow"
+      },
+      {
+        "damage": 11,
+        "name": "Bthrow"
+      },
+      {
+        "damage": 7,
+        "name": "Uthrow"
+      },
+      {
+        "damage": 5,
+        "name": "Dthrow"
+      }
+    ]
+  },
+  {
+    "name": "Marth",
+    "attacks": [
+      {
+        "damage": 1,
+        "name": "Counter"
+      },
+      {
+        "damage": 4,
+        "name": "Fthrow"
+      },
+      {
+        "damage": 4,
+        "name": "Bthrow"
+      },
+      {
+        "damage": 4,
+        "name": "Uthrow"
+      },
+      {
+        "damage": 5,
+        "name": "Dthrow"
+      }
+    ]
+  },
+  {
+    "name": "MegaMan",
+    "attacks": [
+      {
+        "damage": 12,
+        "name": "Utilt"
+      },
+      {
+        "damage": 8,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 12,
+        "name": "Fsmash"
+      },
+      {
+        "damage": 14,
+        "name": "Dsmash"
+      },
+      {
+        "damage": 2,
+        "name": "Uair"
+      },
+      {
+        "damage": 14,
+        "name": "Dair"
+      },
+      {
+        "damage": 3,
+        "name": "Metal Blade"
+      },
+      {
+        "damage": 1,
+        "name": "Rush Coil"
+      },
+      {
+        "damage": 2,
+        "name": "Leaf Shield"
+      },
+      {
+        "damage": 8,
+        "name": "Fthrow"
+      },
+      {
+        "damage": 11,
+        "name": "Bthrow"
+      },
+      {
+        "damage": 7,
+        "name": "Uthrow"
+      },
+      {
+        "damage": 5,
+        "name": "Dthrow"
+      }
+    ]
+  },
+  {
+    "name": "MetaKnight",
+    "attacks": [
+      {
+        "damage": 2,
+        "name": "Rapid Jab Finisher"
+      },
+      {
+        "damage": 2,
+        "name": "Ftilt 1"
+      },
+      {
+        "damage": 2,
+        "name": "Ftilt 2"
+      },
+      {
+        "damage": 4,
+        "name": "Ftilt 3"
+      },
+      {
+        "damage": 5,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 16,
+        "name": "Fsmash"
+      },
+      {
+        "damage": 10,
+        "name": "Nair"
+      },
+      {
+        "damage": 4,
+        "name": "Uair"
+      },
+      {
+        "damage": 6,
+        "name": "Dair"
+      },
+      {
+        "damage": 1,
+        "name": "Mach Tornado"
+      },
+      {
+        "damage": 1,
+        "name": "Drill Rush"
+      },
+      {
+        "damage": 1,
+        "name": "Drill Rush"
+      },
+      {
+        "damage": 1,
+        "name": "Dimensional Cape"
+      },
+      {
+        "damage": 10,
+        "name": "Uthrow"
+      }
+    ]
+  },
+  {
+    "name": "Mewtwo",
+    "attacks": [
+      {
+        "damage": 4,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 2,
+        "name": "Rapid Jab Finisher"
+      },
+      {
+        "damage": 15,
+        "name": "Dsmash"
+      },
+      {
+        "damage": 13,
+        "name": "Fair"
+      },
+      {
+        "damage": 1,
+        "name": "Shadow Ball"
+      },
+      {
+        "damage": 1,
+        "name": "Teleport"
+      },
+      {
+        "damage": 1,
+        "name": "Disable"
+      },
+      {
+        "damage": 10,
+        "name": "Bthrow"
+      },
+      {
+        "damage": 12,
+        "name": "Uthrow"
+      }
+    ]
+  },
+  {
+    "name": "MiiSwordfighter",
+    "attacks": [
+      {
+        "damage": 4,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 3,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 5,
+        "name": "Jab 3"
+      },
+      {
+        "damage": 10,
+        "name": "Dash Attack"
+      },
+      {
+        "damage": 12,
+        "name": "Ftilt"
+      },
+      {
+        "damage": 7,
+        "name": "Utilt"
+      },
+      {
+        "damage": 8,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 8,
+        "name": "Nair"
+      },
+      {
+        "damage": 14,
+        "name": "Bair"
+      },
+      {
+        "damage": 16,
+        "name": "Uair"
+      },
+      {
+        "damage": 1,
+        "name": "Dair"
+      }
+    ]
+  },
+  {
+    "name": "MiiBrawler",
+    "attacks": [
+      {
+        "damage": 3,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 2,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 2,
+        "name": "Rapid Jab Finisher"
+      },
+      {
+        "damage": 6,
+        "name": "Utilt"
+      },
+      {
+        "damage": 8,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 14,
+        "name": "Usmash"
+      },
+      {
+        "damage": 13,
+        "name": "Dsmash"
+      },
+      {
+        "damage": 10,
+        "name": "Nair"
+      },
+      {
+        "damage": 10,
+        "name": "Bair"
+      },
+      {
+        "damage": 8,
+        "name": "Uair"
+      },
+      {
+        "damage": 13,
+        "name": "Dair"
+      },
+      {
+        "damage": 9,
+        "name": "Fthrow"
+      },
+      {
+        "damage": 8,
+        "name": "Uthrow"
+      }
+    ]
+  },
+  {
+    "name": "MiiGunner",
+    "attacks": [
+      {
+        "damage": 2,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 2,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 10,
+        "name": "Dash Attack"
+      },
+      {
+        "damage": 14,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 1,
+        "name": "Fsmash"
+      },
+      {
+        "damage": 6,
+        "name": "Nair"
+      },
+      {
+        "damage": 6,
+        "name": "Fair"
+      },
+      {
+        "damage": 12,
+        "name": "Bair"
+      },
+      {
+        "damage": 1,
+        "name": "Uair"
+      },
+      {
+        "damage": 5,
+        "name": "Dthrow"
+      }
+    ]
+  },
+  {
+    "name": "MrGameWatch",
+    "attacks": [
+      {
+        "damage": 3,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 2,
+        "name": "Rapid Jab Finisher"
+      },
+      {
+        "damage": 6,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 16,
+        "name": "Usmash"
+      },
+      {
+        "damage": 12,
+        "name": "Fair"
+      },
+      {
+        "damage": 11,
+        "name": "Dair"
+      },
+      {
+        "damage": 2,
+        "name": "Judge 1"
+      },
+      {
+        "damage": 4,
+        "name": "Judge 2"
+      },
+      {
+        "damage": 8,
+        "name": "Judge 4"
+      },
+      {
+        "damage": 3,
+        "name": "Judge 5"
+      },
+      {
+        "damage": 12,
+        "name": "Judge 6"
+      },
+      {
+        "damage": 14,
+        "name": "Judge 7"
+      },
+      {
+        "damage": 9,
+        "name": "Judge 8"
+      },
+      {
+        "damage": 32,
+        "name": "Judge 9"
+      },
+      {
+        "damage": 6,
+        "name": "Fire"
+      },
+      {
+        "damage": 1,
+        "name": "Oil Panic"
+      },
+      {
+        "damage": 8,
+        "name": "Fthrow"
+      },
+      {
+        "damage": 8,
+        "name": "Bthrow"
+      },
+      {
+        "damage": 8,
+        "name": "Uthrow"
+      },
+      {
+        "damage": 4,
+        "name": "Dthrow"
+      }
+    ]
+  },
+  {
+    "name": "Ness",
+    "attacks": [
+      {
+        "damage": 2,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 2,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 4,
+        "name": "Jab 3"
+      },
+      {
+        "damage": 9,
+        "name": "Ftilt"
+      },
+      {
+        "damage": 9,
+        "name": "Usmash"
+      },
+      {
+        "damage": 1,
+        "name": "Dsmash"
+      },
+      {
+        "damage": 10,
+        "name": "Dsmash"
+      },
+      {
+        "damage": 1,
+        "name": "Dsmash"
+      },
+      {
+        "damage": 1,
+        "name": "Dsmash"
+      },
+      {
+        "damage": 10,
+        "name": "Dsmash"
+      },
+      {
+        "damage": 11,
+        "name": "Nair"
+      },
+      {
+        "damage": 15,
+        "name": "Bair"
+      },
+      {
+        "damage": 13,
+        "name": "Uair"
+      },
+      {
+        "damage": 12,
+        "name": "Dair"
+      },
+      {
+        "damage": 4,
+        "name": "PK Fire"
+      },
+      {
+        "damage": 25,
+        "name": "PK Thunder 2"
+      },
+      {
+        "damage": 0,
+        "name": "PSI Magnet"
+      },
+      {
+        "damage": 11,
+        "name": "Fthrow"
+      },
+      {
+        "damage": 11,
+        "name": "Bthrow"
+      },
+      {
+        "damage": 10,
+        "name": "Uthrow"
+      }
+    ]
+  },
+  {
+    "name": "Olimar",
+    "attacks": [
+      {
+        "damage": 3,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 11,
+        "name": "Ftilt"
+      },
+      {
+        "damage": 6,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 10,
+        "name": "Fsmash"
+      },
+      {
+        "damage": 13,
+        "name": "Usmash"
+      },
+      {
+        "damage": 2,
+        "name": "Nair"
+      },
+      {
+        "damage": 9,
+        "name": "Fair"
+      },
+      {
+        "damage": 11,
+        "name": "Bair"
+      },
+      {
+        "damage": 9,
+        "name": "Uair"
+      },
+      {
+        "damage": 9,
+        "name": "Dair"
+      },
+      {
+        "damage": 1,
+        "name": "Pikmin Pluck"
+      },
+      {
+        "damage": 1,
+        "name": "Pikmin Toss"
+      },
+      {
+        "damage": 1,
+        "name": "Pikmin Order"
+      },
+      {
+        "damage": 7,
+        "name": "Fthrow"
+      },
+      {
+        "damage": 9,
+        "name": "Bthrow"
+      },
+      {
+        "damage": 8,
+        "name": "Uthrow"
+      }
+    ]
+  },
+  {
+    "name": "PAC-MAN",
+    "attacks": [
+      {
+        "damage": 3,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 2,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 4,
+        "name": "Jab 3"
+      },
+      {
+        "damage": 7,
+        "name": "Utilt"
+      },
+      {
+        "damage": 6,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 13,
+        "name": "Dsmash"
+      },
+      {
+        "damage": 6,
+        "name": "Nair"
+      },
+      {
+        "damage": 6,
+        "name": "Fair"
+      },
+      {
+        "damage": 12,
+        "name": "Bair"
+      },
+      {
+        "damage": 10,
+        "name": "Uair"
+      },
+      {
+        "damage": 10,
+        "name": "Power Pellet"
+      },
+      {
+        "damage": 1,
+        "name": "Pac-Jump"
+      },
+      {
+        "damage": 1,
+        "name": "Fire Hydrant"
+      },
+      {
+        "damage": 6,
+        "name": "Fthrow"
+      },
+      {
+        "damage": 11,
+        "name": "Bthrow"
+      },
+      {
+        "damage": 5,
+        "name": "Uthrow"
+      }
+    ]
+  },
+  {
+    "name": "Palutena",
+    "attacks": [
+      {
+        "damage": 3,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 1,
+        "name": "Rapid Jab"
+      },
+      {
+        "damage": 4,
+        "name": "Rapid Jab Finisher"
+      },
+      {
+        "damage": 15,
+        "name": "Dsmash"
+      },
+      {
+        "damage": 1,
+        "name": "Uair"
+      },
+      {
+        "damage": 9,
+        "name": "Dair"
+      },
+      {
+        "damage": 5,
+        "name": "Reflect Barrier"
+      },
+      {
+        "damage": 1,
+        "name": "Warp"
+      },
+      {
+        "damage": 1,
+        "name": "Counter"
+      },
+      {
+        "damage": 9,
+        "name": "Fthrow"
+      },
+      {
+        "damage": 10,
+        "name": "Bthrow"
+      },
+      {
+        "damage": 8,
+        "name": "Uthrow"
+      },
+      {
+        "damage": 5,
+        "name": "Dthrow"
+      }
+    ]
+  },
+  {
+    "name": "Peach",
+    "attacks": [
+      {
+        "damage": 2,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 3,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 7,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 13,
+        "name": "Nair"
+      },
+      {
+        "damage": 15,
+        "name": "Fair"
+      },
+      {
+        "damage": 12,
+        "name": "Bair"
+      },
+      {
+        "damage": 1,
+        "name": "Toad"
+      },
+      {
+        "damage": 3,
+        "name": "Parasol"
+      },
+      {
+        "damage": 1,
+        "name": "Parasol"
+      },
+      {
+        "damage": 1,
+        "name": "Vegetable"
+      }
+    ]
+  },
+  {
+    "name": "Pikachu",
+    "attacks": [
+      {
+        "damage": 10,
+        "name": "Dash Attack"
+      },
+      {
+        "damage": 9,
+        "name": "Ftilt"
+      },
+      {
+        "damage": 5,
+        "name": "Utilt"
+      },
+      {
+        "damage": 6,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 18,
+        "name": "Fsmash"
+      },
+      {
+        "damage": 11,
+        "name": "Usmash"
+      },
+      {
+        "damage": 9,
+        "name": "Nair"
+      },
+      {
+        "damage": 3,
+        "name": "Fair"
+      },
+      {
+        "damage": 12,
+        "name": "Dair"
+      },
+      {
+        "damage": 6,
+        "name": "Skull Bash"
+      },
+      {
+        "damage": 9,
+        "name": "Bthrow"
+      }
+    ]
+  },
+  {
+    "name": "Pit",
+    "attacks": [
+      {
+        "damage": 2,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 2,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 5,
+        "name": "Jab 3"
+      },
+      {
+        "damage": 1,
+        "name": "Rapid Jab"
+      },
+      {
+        "damage": 2,
+        "name": "Rapid Jab Finisher"
+      },
+      {
+        "damage": 11,
+        "name": "Dash Attack"
+      },
+      {
+        "damage": 6,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 10,
+        "name": "Dair"
+      },
+      {
+        "damage": 8,
+        "name": "Bthrow"
+      }
+    ]
+  },
+  {
+    "name": "Rob",
+    "attacks": [
+      {
+        "damage": 3,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 3,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 7,
+        "name": "Dash Attack"
+      },
+      {
+        "damage": 3,
+        "name": "Utilt"
+      },
+      {
+        "damage": 5,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 7,
+        "name": "Fair"
+      },
+      {
+        "damage": 2,
+        "name": "Uair"
+      },
+      {
+        "damage": 1,
+        "name": "Gyro"
+      },
+      {
+        "damage": 8,
+        "name": "Fthrow"
+      },
+      {
+        "damage": 10,
+        "name": "Bthrow"
+      },
+      {
+        "damage": 12,
+        "name": "Uthrow"
+      },
+      {
+        "damage": 10,
+        "name": "Dthrow"
+      }
+    ]
+  },
+  {
+    "name": "Robin",
+    "attacks": [
+      {
+        "damage": 3,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 3,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 10,
+        "name": "Dash Attack"
+      },
+      {
+        "damage": 8,
+        "name": "Ftilt"
+      },
+      {
+        "damage": 6,
+        "name": "Utilt"
+      },
+      {
+        "damage": 6,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 1,
+        "name": "Book"
+      },
+      {
+        "damage": 1,
+        "name": "Levin Sword"
+      },
+      {
+        "damage": 5,
+        "name": "Thunder"
+      },
+      {
+        "damage": 11,
+        "name": "Elthunder"
+      },
+      {
+        "damage": 1,
+        "name": "Arcthunder"
+      },
+      {
+        "damage": 3,
+        "name": "Thoron"
+      },
+      {
+        "damage": 3,
+        "name": "Super Thoron"
+      },
+      {
+        "damage": 1,
+        "name": "Arcfire"
+      },
+      {
+        "damage": 8,
+        "name": "Fthrow"
+      },
+      {
+        "damage": 11,
+        "name": "Bthrow"
+      },
+      {
+        "damage": 9,
+        "name": "Uthrow"
+      },
+      {
+        "damage": 6,
+        "name": "Dthrow"
+      }
+    ]
+  },
+  {
+    "name": "RosalinaLuma",
+    "attacks": [
+      {
+        "damage": 3,
+        "name": "Star Bits"
+      },
+      {
+        "damage": 1,
+        "name": "Launch Star"
+      },
+      {
+        "damage": 1,
+        "name": "Gravitational Pull"
+      },
+      {
+        "damage": 9,
+        "name": "Fthrow"
+      },
+      {
+        "damage": 11,
+        "name": "Bthrow"
+      },
+      {
+        "damage": 7,
+        "name": "Uthrow"
+      },
+      {
+        "damage": 9,
+        "name": "Dthrow"
+      }
+    ]
+  },
+  {
+    "name": "Roy",
+    "attacks": [
+      {
+        "damage": 2,
+        "name": "Blazer"
+      },
+      {
+        "damage": 1,
+        "name": "Counter"
+      },
+      {
+        "damage": 5,
+        "name": "Fthrow"
+      },
+      {
+        "damage": 5,
+        "name": "Bthrow"
+      },
+      {
+        "damage": 6,
+        "name": "Uthrow"
+      },
+      {
+        "damage": 5,
+        "name": "Dthrow"
+      }
+    ]
+  },
+  {
+    "name": "Ryu",
+    "attacks": [
+      {
+        "damage": 2,
+        "name": "Light Jab 1"
+      },
+      {
+        "damage": 10,
+        "name": "Medium Jab 1"
+      },
+      {
+        "damage": 3,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 5,
+        "name": "Jab 3"
+      },
+      {
+        "damage": 7,
+        "name": "Light Ftilt"
+      },
+      {
+        "damage": 2,
+        "name": "Light Utilt"
+      },
+      {
+        "damage": 2,
+        "name": "Light Dtilt"
+      },
+      {
+        "damage": 17,
+        "name": "Usmash"
+      },
+      {
+        "damage": 8,
+        "name": "Nair"
+      },
+      {
+        "damage": 6,
+        "name": "Uair"
+      },
+      {
+        "damage": 2,
+        "name": "Light Shakunetsu Hadouken"
+      },
+      {
+        "damage": 2,
+        "name": "Medium Shakunetsu Hadouken"
+      },
+      {
+        "damage": 2,
+        "name": "Heavy Shakunetsu Hadouken"
+      },
+      {
+        "damage": 1,
+        "name": "Focus Attack"
+      },
+      {
+        "damage": 9,
+        "name": "Fthrow"
+      },
+      {
+        "damage": 12,
+        "name": "Bthrow"
+      },
+      {
+        "damage": 8,
+        "name": "Uthrow"
+      }
+    ]
+  },
+  {
+    "name": "Samus",
+    "attacks": [
+      {
+        "damage": 3,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 8,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 12,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 3,
+        "name": "Charge Shot"
+      },
+      {
+        "damage": 5,
+        "name": "Homing Missile"
+      },
+      {
+        "damage": 10,
+        "name": "Super Missile"
+      },
+      {
+        "damage": 4,
+        "name": "Bomb"
+      },
+      {
+        "damage": 9,
+        "name": "Fthrow"
+      },
+      {
+        "damage": 8,
+        "name": "Bthrow"
+      },
+      {
+        "damage": 6,
+        "name": "Dthrow"
+      }
+    ]
+  },
+  {
+    "name": "Sheik",
+    "attacks": [
+      {
+        "damage": 2,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 3,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 3,
+        "name": "Rapid Jab Finisher"
+      },
+      {
+        "damage": 4,
+        "name": "Ftilt"
+      },
+      {
+        "damage": 5,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 1,
+        "name": "Uair"
+      },
+      {
+        "damage": 8,
+        "name": "Dair"
+      },
+      {
+        "damage": 1,
+        "name": "Needle Storm"
+      },
+      {
+        "damage": 12,
+        "name": "Vanish"
+      }
+    ]
+  },
+  {
+    "name": "Shulk",
+    "attacks": [
+      {
+        "damage": 4,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 4,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 6,
+        "name": "Jab 3"
+      },
+      {
+        "damage": 12,
+        "name": "Dash Attack"
+      },
+      {
+        "damage": 9,
+        "name": "Utilt"
+      },
+      {
+        "damage": 13,
+        "name": "Bair"
+      },
+      {
+        "damage": 1,
+        "name": "Monado Arts Activation"
+      },
+      {
+        "damage": 1,
+        "name": "Monado Arts Duration"
+      },
+      {
+        "damage": 1,
+        "name": "Monado Arts Cooldown"
+      },
+      {
+        "damage": 1,
+        "name": "Vision"
+      }
+    ]
+  },
+  {
+    "name": "Sonic",
+    "attacks": [
+      {
+        "damage": 2,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 2,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 4,
+        "name": "Jab 3"
+      },
+      {
+        "damage": 1,
+        "name": "Dash Attack"
+      },
+      {
+        "damage": 6,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 12,
+        "name": "Dsmash"
+      },
+      {
+        "damage": 8,
+        "name": "Nair"
+      },
+      {
+        "damage": 14,
+        "name": "Bair"
+      },
+      {
+        "damage": 8,
+        "name": "Dair"
+      },
+      {
+        "damage": 7,
+        "name": "Spin Dash"
+      },
+      {
+        "damage": 7,
+        "name": "Bthrow"
+      }
+    ]
+  },
+  {
+    "name": "ToonLink",
+    "attacks": [
+      {
+        "damage": 3,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 2,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 4,
+        "name": "Jab 3"
+      },
+      {
+        "damage": 9,
+        "name": "Ftilt"
+      },
+      {
+        "damage": 5,
+        "name": "Utilt"
+      },
+      {
+        "damage": 7,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 13,
+        "name": "Usmash"
+      },
+      {
+        "damage": 13,
+        "name": "Fair"
+      },
+      {
+        "damage": 11,
+        "name": "Bair"
+      },
+      {
+        "damage": 14,
+        "name": "Uair"
+      },
+      {
+        "damage": 16,
+        "name": "Dair"
+      },
+      {
+        "damage": 4,
+        "name": "Zair"
+      },
+      {
+        "damage": 8,
+        "name": "Boomerang"
+      },
+      {
+        "damage": 1,
+        "name": "Bomb"
+      },
+      {
+        "damage": 1,
+        "name": "Bomb"
+      },
+      {
+        "damage": 7,
+        "name": "Bthrow"
+      }
+    ]
+  },
+  {
+    "name": "Villager",
+    "attacks": [
+      {
+        "damage": 3,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 3,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 10,
+        "name": "Dash Attack"
+      },
+      {
+        "damage": 9,
+        "name": "Ftilt"
+      },
+      {
+        "damage": 9,
+        "name": "Nair"
+      },
+      {
+        "damage": 4,
+        "name": "Fair"
+      },
+      {
+        "damage": 5,
+        "name": "Bair"
+      },
+      {
+        "damage": 1,
+        "name": "Pocket"
+      },
+      {
+        "damage": 7,
+        "name": "Lloid Rocket"
+      },
+      {
+        "damage": 1,
+        "name": "Balloon Trip"
+      },
+      {
+        "damage": 9,
+        "name": "Fthrow"
+      },
+      {
+        "damage": 11,
+        "name": "Bthrow"
+      },
+      {
+        "damage": 10,
+        "name": "Uthrow"
+      },
+      {
+        "damage": 6,
+        "name": "Dthrow"
+      }
+    ]
+  },
+  {
+    "name": "Wario",
+    "attacks": [
+      {
+        "damage": 4,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 5,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 7,
+        "name": "Dash Attack"
+      },
+      {
+        "damage": 10,
+        "name": "Utilt"
+      },
+      {
+        "damage": 4,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 19,
+        "name": "Fsmash"
+      },
+      {
+        "damage": 16,
+        "name": "Usmash"
+      },
+      {
+        "damage": 10,
+        "name": "Dsmash"
+      },
+      {
+        "damage": 7,
+        "name": "Fair"
+      },
+      {
+        "damage": 12,
+        "name": "Bair"
+      },
+      {
+        "damage": 13,
+        "name": "Uair"
+      },
+      {
+        "damage": 5,
+        "name": "Chomp"
+      },
+      {
+        "damage": 1,
+        "name": "Wario Bike"
+      },
+      {
+        "damage": 1,
+        "name": "Corkscrew"
+      },
+      {
+        "damage": 4,
+        "name": "Corkscrew"
+      },
+      {
+        "damage": 12,
+        "name": "Fthrow"
+      },
+      {
+        "damage": 7,
+        "name": "Bthrow"
+      }
+    ]
+  },
+  {
+    "name": "WiiFitTrainer",
+    "attacks": [
+      {
+        "damage": 3,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 2,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 3,
+        "name": "Jab 3"
+      },
+      {
+        "damage": 6,
+        "name": "Dash Attack"
+      },
+      {
+        "damage": 9,
+        "name": "Ftilt"
+      },
+      {
+        "damage": 10,
+        "name": "Utilt"
+      },
+      {
+        "damage": 12,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 10,
+        "name": "Fair"
+      },
+      {
+        "damage": 10,
+        "name": "Uair"
+      },
+      {
+        "damage": 15,
+        "name": "Header"
+      },
+      {
+        "damage": 5,
+        "name": "Super Hoop"
+      },
+      {
+        "damage": 11,
+        "name": "Uthrow"
+      },
+      {
+        "damage": 7,
+        "name": "Dthrow"
+      }
+    ]
+  },
+  {
+    "name": "Yoshi",
+    "attacks": [
+      {
+        "damage": 3,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 4,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 9,
+        "name": "Dash Attack"
+      },
+      {
+        "damage": 7,
+        "name": "Ftilt"
+      },
+      {
+        "damage": 7,
+        "name": "Utilt"
+      },
+      {
+        "damage": 14,
+        "name": "Usmash"
+      },
+      {
+        "damage": 7,
+        "name": "Nair"
+      },
+      {
+        "damage": 12,
+        "name": "Uair"
+      },
+      {
+        "damage": 7,
+        "name": "Egg Lay"
+      },
+      {
+        "damage": 4,
+        "name": "Egg Roll"
+      },
+      {
+        "damage": 7,
+        "name": "Fthrow"
+      },
+      {
+        "damage": 7,
+        "name": "Bthrow"
+      },
+      {
+        "damage": 5,
+        "name": "Uthrow"
+      },
+      {
+        "damage": 4,
+        "name": "Dthrow"
+      }
+    ]
+  },
+  {
+    "name": "Zelda",
+    "attacks": [
+      {
+        "damage": 8,
+        "name": "Utilt"
+      },
+      {
+        "damage": 6,
+        "name": "Dtilt"
+      },
+      {
+        "damage": 17,
+        "name": "Uair"
+      },
+      {
+        "damage": 16,
+        "name": "Dair"
+      },
+      {
+        "damage": 1,
+        "name": "Din's Fire"
+      },
+      {
+        "damage": 12,
+        "name": "Fthrow"
+      },
+      {
+        "damage": 11,
+        "name": "Bthrow"
+      },
+      {
+        "damage": 11,
+        "name": "Uthrow"
+      }
+    ]
+  },
+  {
+    "name": "ZeroSuitSamus",
+    "attacks": [
+      {
+        "damage": 2,
+        "name": "Jab 1"
+      },
+      {
+        "damage": 2,
+        "name": "Jab 2"
+      },
+      {
+        "damage": 3,
+        "name": "Jab 3"
+      },
+      {
+        "damage": 8,
+        "name": "Dash Attack"
+      },
+      {
+        "damage": 8,
+        "name": "Nair"
+      },
+      {
+        "damage": 7,
+        "name": "Uair"
+      },
+      {
+        "damage": 2,
+        "name": "Plasma Whip"
+      },
+      {
+        "damage": 1,
+        "name": "Flip Kick"
+      }
+    ]
+  }
+]

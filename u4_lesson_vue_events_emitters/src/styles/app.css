@@ -1,0 +1,71 @@
+html {
+  background-color: #252734;
+}
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #d4d2d2;
+  margin-top: 60px;
+}
+
+.form-container {
+  width: 70vw;
+  margin: 1em auto;
+  padding: 2em 1em;
+  border-radius: 10px;
+  background-color: #1d1d2a;
+  border: 2px solid #07070b;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+input {
+  background: inherit;
+  border: 1px solid #07070b;
+}
+
+input,
+button {
+  width: 70%;
+  margin: 0.5em auto;
+  padding: 0.6em 1em;
+  border-radius: 10px;
+
+  color: #d4d2d2;
+  font-size: 1.2rem;
+  transition: all 0.2s ease;
+}
+
+button {
+  background-color: #596799;
+  border: none;
+  font-weight: 700;
+}
+
+button:disabled {
+  cursor: auto;
+  background-color: #252734;
+  color: #a1a6c0;
+}
+
+button:hover:not([disabled]) {
+  background-color: #a1a6c0;
+  color: #252734;
+}
+
+input:focus,
+input:active {
+  outline: none;
+  background: #252734;
+}
+
+button {
+  cursor: pointer;
+}
